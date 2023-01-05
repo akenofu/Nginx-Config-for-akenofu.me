@@ -1,4 +1,5 @@
 # Nginx-Config-for-akenofu.me
+**Overview**
 1. Redirects HTTP to HTTPs
 2. VHost routing for akenofu.me , notes.akenofu.me and blog.akenofu.me
 3. Uses the lets encrypt generated certificate for each of the three subdomains
